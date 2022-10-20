@@ -6,6 +6,8 @@ Convert natural language into executable commands directly from the terminal!
 
 Open source CLI tool powered by [OpenAI](https://openai.com/) (bring your own key).
 
+https://user-images.githubusercontent.com/21132214/196826911-38d9211c-62c6-4510-9e8c-ab2803909330.mov
+
 ## Installation
 
 1. Clone this repo.

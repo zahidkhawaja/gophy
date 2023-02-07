@@ -35,7 +35,7 @@ func main() {
 	context := context.Background()
 
 	request := gogpt.CompletionRequest{
-		Model:     "text-davinci-002",
+		Model:     "text-davinci-003",
 		MaxTokens: 64,
 		Prompt:    defaultPrompt + " Text:" + userInput + ". Command:",
 		Stop:      []string{"Text"},
